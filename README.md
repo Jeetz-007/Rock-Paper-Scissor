@@ -1,7 +1,6 @@
 # 🪨📄✂️ Rock Paper Scissors (Python CLI Game)
 
 A fun **command-line Rock Paper Scissors game** built in Python.  
-This is my **second project** after the CLI Quiz App.  
 It includes emojis, score tracking, and interactive gameplay.
 
 ---
